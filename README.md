@@ -1,7 +1,7 @@
 # Documentación del sistema NEXA-STORE
 
 ## 1. Descripción de la aplicación
-alex estuvo aqui
+
 **Nexa Store** es una aplicación web de gestión comercial (CRUD) construida con:
 
 - **Backend**: Java 21 + Spring Boot 4.1.0 (stack **WebMVC** con controladores + Thymeleaf).
